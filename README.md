@@ -2,10 +2,11 @@
 
 ## Features
 
-- Take a screenshot with a selectable area.
-- Add a gradient border to the screenshot.
-- Save the screenshot in the `~/Pictures/Screenshots/` directory, with a timestamp.
-- Copy the screenshot to the clipboard.
+- Takes a screenshot with a selectable area.
+- Adds a gradient border to the screenshot.
+- Colors and size of the gradient border are configurable in the script.
+- Saves the screenshot in the `~/Pictures/Screenshots/` directory, with a timestamp.
+- Copies the screenshot to the clipboard.
 
 ## Prerequisites
 
