@@ -16,6 +16,9 @@ This script depends on the following programs, they must be installed in the env
 - `xclip`: Tool for copying images to the clipboard.
 - `ImageMagick`: Tool for image processing.
 
+## Example
+![Example Screenshot](example.png)
+
 ## Installation
 `git clone https://github.com/DatCodeMania/LinuxSSTool.git`
 
