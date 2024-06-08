@@ -10,7 +10,7 @@
 
 ## Prerequisites
 
-This script depends on the following programs, they must be installed on the environment where the script runs.
+This script depends on the following programs, they must be installed in the environment where the script runs.
 
 - `scrot`: Tool for taking screenshots.
 - `xclip`: Tool for copying images to the clipboard.
