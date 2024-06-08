@@ -17,8 +17,11 @@ This script depends on the following programs, they must be installed on the env
 
 ## Installation
 `git clone https://github.com/DatCodeMania/LinuxSSTool.git`
+
 `cd LinuxSSTool`
+
 `chmod +x take-screenshot.sh`
+
 `./take-screenshot.sh`
 
 From here on out, you can then move this script to wherever you want, e.g. `~/.config/scripts`, and then call it using your WM/DE with a keybind, or any other method of your choosing.
