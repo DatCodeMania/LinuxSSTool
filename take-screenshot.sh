@@ -6,6 +6,8 @@ gradientFilePath=~/Pictures/Screenshots/gradient.png
 
 borderSize=5
 
+# Find available colors here: https://imagemagick.org/script/color.php
+# HEX and RGB color codes are supported as well
 gradientColor1=yellow
 gradientColor2=red
 
